@@ -33,7 +33,7 @@ A Streamlit-powered conversational search assistant that leverages LangChain age
    ```bash
    streamlit run app.py
    ```
-2. **Open the app** in your browser (usually at http://localhost:8501).
+2. **Open the app** in your browser (usually at http://localhost:8502).
 3. **Enter your Groq API key** in the sidebar.
 4. **Select your preferred LLM model and tools.**
 5. **Start chatting!** Use the prompt suggestions or type your own questions.
